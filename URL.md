@@ -20,8 +20,9 @@
 18.  Miladazadfont [MiladAzad](https://github.com/font-store/font-MiladAzad)
 19.  VizhehAzadfont [VizhehAzad](https://github.com/font-store/font-VizhehAzad)
 20. fontIranian [iranian](https://github.com/font-store/font-Iranian)
-21.   Zoghal [Pfont](https://github.com/zoghal/pfont-1)/releases/tag/v0.300
-
+21.   Zoghal [Pfont](https://github.com/zoghal/pfont-1)
+22.  sajadkazemi [parsimatn](https://github.com/SajadKazemi/parsimatn)
+23.  Dehnavi [dehnavi92](https://github.com/dehnavi/dehnavi92)
 
 # Download URL of Fonts
 
@@ -46,3 +47,5 @@
 19.  [VizhehAzad](https://github.com/font-store/font-VizhehAzad/archive/e82a39f/font-VizhehAzad-e82a39f.tar.gz)
 20. [iranian](https://github.com/font-store/font-Iranian/archive/dbce4f0/font-iranian-dbce4f0.tar.gz)
 21.  [Pfont](https://github.com/zoghal/pfont-1/releases/tag/v0.300)
+22.  [parsimatn](https://github.com/SajadKazemi/parsimatn/archive/ab3e192/parsimatn-ab3e192.tar.gz)
+23.  [dehnavi92](https://github.com/dehnavi/dehnavi92/archive/b951a3a/dehnavi92-b951a3a.tar.gz)
