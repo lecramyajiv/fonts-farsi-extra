@@ -1,0 +1,97 @@
+fonts-freefarsi (1.0.0~beta1-8) unstable; urgency=medium
+
+  * debian/control
+    - Drop transitional ttf-freefarsi (Closes: #878486)
+    - Set Standards-Version: 4.5.0
+    - Drop debhelper and set debhelper-compat (= 13)
+    - Update Uploaders list (Closes: #927658)
+    - Update Maintainers address
+    - Update Vcs-* to move salsa.debian.org
+    - Add Rules-Requires-Root: no
+  * debian/copyright
+    - Convert to Copyright Format 1.0
+  * debian/rules
+    - Use default compression
+  * debian/docs
+    - Add README
+  * Drop debian/compat
+  * Add debian/salsa-ci.yml
+  * Trim trailing whitespace.
+  * Fix day-of-week for changelog entry 1.0.0~beta1-1.
+
+ -- Hideki Yamane <henrich@debian.org>  Sun, 14 Jun 2020 19:15:42 +0900
+
+fonts-freefarsi (1.0.0~beta1-7) unstable; urgency=low
+
+  * Doh, copy/paste error in previous upload! Replaces, Provides and
+    Conflicts with former versions of this package not another package
+  * Update Standards to 3.9.4 (checked)
+  * Use git for packaging: adapt Vcs-* fields
+  * Bump debhelper compatibility to 9
+  * Add Multi-Arch: foreign field
+  * Use xz extreme compression for deb packages
+  * Explicitly mention the patch to GPL-2 in debian/copyright
+  * Make transitional package Priority: extra
+
+ -- Christian Perrier <bubulle@debian.org>  Mon, 29 Jul 2013 20:36:36 +0200
+
+fonts-freefarsi (1.0.0~beta1-6) unstable; urgency=low
+
+  * Add proper Replaces, Provides, Conflicts to handle smooth upgrades
+    after renaming
+
+ -- Christian Perrier <bubulle@debian.org>  Sat, 08 Oct 2011 19:42:55 +0200
+
+fonts-freefarsi (1.0.0~beta1-5) unstable; urgency=low
+
+  * Team upload
+  * Rename source package to "fonts-freefarsi" to fit the Font
+    Packages Naming Policy.
+  * Bump Standards to 3.9.2 (checked)
+  * Add Vcs-svn and Vcs-browser fields to debian/control
+  * Drop defoma removal code (dropped in version in stable, now) and
+    therefore drop preinst script
+  * Change fonts install directory from
+    usr/share/fonts/truetype/ttf-freefarsi to
+    usr/share/fonts/truetype/freefarsi
+
+ -- Christian Perrier <bubulle@debian.org>  Sat, 27 Aug 2011 22:31:51 +0200
+
+ttf-freefarsi (1.0.0~beta1-4) unstable; urgency=low
+
+  * Change section to fonts
+
+ -- Christian Perrier <bubulle@debian.org>  Sat, 05 Dec 2009 07:52:24 +0100
+
+ttf-freefarsi (1.0.0~beta1-3) unstable; urgency=low
+
+  * Switch to debhelper v7
+  * Use a minimal debian/rules file
+  * As a consequence of this, drop build dependency on cdbs
+  * Switch to 3.0 (quilt) source format
+  * Add ${misc:Depends} to dependencies to properly cope with
+    debhelper-triggerred dependencies
+  * Add myself as Uploader
+  * Update Standards to 3.8.3 (checked)
+  * Drop defoma use
+
+ -- Christian Perrier <bubulle@debian.org>  Fri, 04 Dec 2009 23:00:24 +0100
+
+ttf-freefarsi (1.0.0~beta1-2) unstable; urgency=low
+
+  * Bump standards to 3.7.3 to fix lintian errors
+
+ -- Alan Baghumian <alan@technotux.org>  Sun, 20 Apr 2008 10:18:03 +0200
+
+ttf-freefarsi (1.0.0~beta1-1) unstable; urgency=low
+
+  * New upstream release.
+    - Adds new font: 'FreeFarsi-Mono.ttf'.
+
+ -- Alan Baghumian <alan@technotux.org>  Wed, 24 Jan 2007 12:11:56 +0330
+
+ttf-freefarsi (1.0.0~alpha5-1) unstable; urgency=low
+
+  * Initial release (Closes: #398036).
+
+ -- Alan Baghumian <alan@technotux.org>  Sat,  2 Dec 2006 02:37:21 +0330
