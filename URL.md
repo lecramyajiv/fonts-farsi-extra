@@ -19,8 +19,8 @@
 17.  Noonfont [Noon](https://github.com/font-store/NoonFont)
 18.  Miladazadfont [MiladAzad](https://github.com/font-store/font-MiladAzad)
 19.  VizhehAzadfont [VizhehAzad](https://github.com/font-store/font-VizhehAzad)
-fontIranian [iranian](https://github.com/font-store/font-Iranian)
-https://github.com/zoghal/pfont-1/releases/tag/v0.300
+20. fontIranian [iranian](https://github.com/font-store/font-Iranian)
+21.   Zoghal [Pfont](https://github.com/zoghal/pfont-1)/releases/tag/v0.300
 
 
 # Download URL of Fonts
@@ -44,4 +44,5 @@ https://github.com/zoghal/pfont-1/releases/tag/v0.300
 17.  [Noon](https://github.com/font-store/NoonFont/releases/download/0.9.0/Noon_0-9-0.zip)
 18.  [MiladAzad](https://github.com/font-store/font-MiladAzad/archive/59f634e/font-MiladAzad-59f634e.tar.gz)
 19.  [VizhehAzad](https://github.com/font-store/font-VizhehAzad/archive/e82a39f/font-VizhehAzad-e82a39f.tar.gz)
-[iranian](https://github.com/font-store/font-Iranian/archive/dbce4f0/font-iranian-dbce4f0.tar.gz)
+20. [iranian](https://github.com/font-store/font-Iranian/archive/dbce4f0/font-iranian-dbce4f0.tar.gz)
+21.  [Pfont](https://github.com/zoghal/pfont-1/releases/tag/v0.300)
