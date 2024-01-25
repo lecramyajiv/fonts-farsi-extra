@@ -19,20 +19,30 @@ The following fonts are available
 8. Nahid
 9. Samim
 10. Shabnam
-11. Iran Nastaliq
-12. Nika
-13. Behdad
-14. Ganjnameh
-15. Farbod
-16. Shahab
-17. Noon
-18. MiladAzad
-19. VizhehAzad
-20. Font Iranian
-21. Pfont
-22. Pasrimatn
-23. Dehnavi92 
+11. Nika
+12. Behdad
+13. Ganjnameh
+14. Farbod
+15. Shahab
+16. Noon
+17. MiladAzad
+18. VizhehAzad
+19. Font Iranian
+20. Pfont
+21. Pasrimatn
+22. Dehnavi92
+23. Fandogh
+24. Erfan
+25. Unixel
+26. EncryptedPersian
+27. Xorasani-nasx
+28. PakType Basic Farsi
 
+Fandogh is a fancy persian font.
+Erfan and unixel are pixel fonts.
+EncryptedPersian is an persian font with Egyptian Hieroglyphics.
+PakType is a collection of fonts arabic,urdu,Farsi and sindhi. This
+repo contains only the Farsi font.
 
 Extra collection of Persian fonts for Slackware Linux
 
