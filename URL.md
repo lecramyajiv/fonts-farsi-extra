@@ -23,6 +23,8 @@
 21.   Zoghal [Pfont](https://github.com/zoghal/pfont-1)
 22.  sajadkazemi [parsimatn](https://github.com/SajadKazemi/parsimatn)
 23.  Dehnavi [dehnavi92](https://github.com/dehnavi/dehnavi92)
+24.  Aminabedi [Fandogh](https://github.com/aminabedi68/Fandogh)
+erfanfont [Erfan](https://github.com/ekm507/erfan-font)
 
 # Download URL of Fonts
 
@@ -49,3 +51,5 @@
 21.  [Pfont](https://github.com/zoghal/pfont-1/releases/tag/v0.300)
 22.  [parsimatn](https://github.com/SajadKazemi/parsimatn/archive/ab3e192/parsimatn-ab3e192.tar.gz)
 23.  [dehnavi92](https://github.com/dehnavi/dehnavi92/archive/b951a3a/dehnavi92-b951a3a.tar.gz)
+24.  [Fandogh](https://github.com/aminabedi68/Fandogh/archive/08ff99b/Fandogh-08ff99b.tar.gz)
+[Erfan](https://github.com/ekm507/erfan-font/releases/download/v1.0/erfan-font-ttf-v1.0.zip)
